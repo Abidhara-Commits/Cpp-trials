@@ -12,5 +12,6 @@ int main (){
     cin >> y;
         z = x * y;
     cout << "The area of the rectangle is" << z << " " <<"centimeters squared" << endl;
+    return 0;
 
 }
