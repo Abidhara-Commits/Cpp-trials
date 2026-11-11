@@ -27,6 +27,8 @@ int main(){
         cout << "You are obese"<< endl;
     }
 
+    / there are more levels to bmi scale but I will only do upto obese/
+    
     return 0;
 
 }
