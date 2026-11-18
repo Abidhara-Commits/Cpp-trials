@@ -2,8 +2,9 @@
 using namespace std;
 
 int main() {
-    int x;
-  cout<< "Eyuel here"<< endl;
-  cin>> x:
-  cout << "you are "<< x << "years old"<< endl;
+  int x, y;
+  cout<< "Enter num1" <<endl;
+  cin >> x;
+  cout << "Enter num2" << endl;
+  cin >> y;
 }
