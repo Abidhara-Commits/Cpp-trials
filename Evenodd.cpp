@@ -10,7 +10,6 @@ int main() {
     cout << "Enter second number: ";
     cin >> endNum;
 
-    // Ensure startNum is not greater than endNum
     if (startNum > endNum) {
         int temp = startNum;
         startNum = endNum;
