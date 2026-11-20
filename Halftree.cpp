@@ -38,5 +38,6 @@ int main (){
         cout << endl;
     }
 
+    // hw do all the 4 types of half trees and even full tree using char 
     return 0;
 }
