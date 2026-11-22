@@ -31,4 +31,26 @@ Q11
 - 0 because float is a single precison(4 bytes, 7 decimals) and double is double precision(8 bytes, 12-17 decimals).
 - essentially we are comparing not only the data stored but also the size in the memory.
 
+Q12 
+In Q12.exe
 
+Q13 
+
+12 8 2
+
+Q14
+
+6
+
+Q15
+
+5 7 14 15 5
+
+Q16
+
+in Q16.exe
+Version b could go wrong when the value is too large to fit in int.
+
+Q17
+
+12 5.5
