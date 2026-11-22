@@ -54,3 +54,9 @@ Version b could go wrong when the value is too large to fit in int.
 Q17
 
 12 5.5
+
+Q18
+ In Q18.cpp 
+
+Q19 
+
