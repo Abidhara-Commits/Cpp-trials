@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    //Quesion 6
     int x;
     cin >> x;
 
