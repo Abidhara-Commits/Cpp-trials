@@ -1,0 +1,33 @@
+Worksheet answers
+
+Q7
+Output: 3 3.4 3
+- for avg1 it happens when they divide and since they are int in this case thy stay that way.
+- for avg2 it happens because total is explicitly changed into double.
+- for avg3 the division happens within a parenthesis and since they're int it becomes 3; then changes to double.
+
+Q8
+
+Output: 2 -2 3 -2 
+solution to rounding:
+(int) (v >= 0 ? v + 0.5 : v - 0.5) where v is your input this is the same as saying:
+
+int x;
+if (v > = 0){
+    x = (int)(v + 0.5);
+}
+else{
+    x = (int)(v - 0.5);
+}
+
+Q9 in QU9.cpp
+First output c 2
+
+    char ch = 'x';
+    char shifted = 'a' + (ch - 'a' + 5) % 26;   
+    // 
+    cout << shifted << " " << int(shifted - 'a');
+
+    // 
+
+
