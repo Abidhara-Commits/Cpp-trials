@@ -23,11 +23,12 @@ else{
 Q9 in QU9.cpp
 First output c 2
 
-    char ch = 'x';
-    char shifted = 'a' + (ch - 'a' + 5) % 26;   
-    // 
-    cout << shifted << " " << int(shifted - 'a');
+Q10
+ 2 2.5 2.5
 
-    // 
+Q11
+0 1 1 
+- 0 because float is a single precison(4 bytes, 7 decimals) and double is double precision(8 bytes, 12-17 decimals).
+- essentially we are comparing not only the data stored but also the size in the memory.
 
 
