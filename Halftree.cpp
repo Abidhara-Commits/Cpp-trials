@@ -23,8 +23,8 @@ int main (){
     }
 
     //Question 3
-
-    for (int r = 1; r <= 6; r++) {
+    /*
+     for (int r = 1; r <= 6; r++) {
 
         for (int space = 1; space < r; r++) {
             cout << " ";
@@ -36,7 +36,8 @@ int main (){
         }
 
         cout << endl;
-    }
+    }*/
+   
 
     // hw do all the 4 types of half trees and even full tree using char 
     return 0;
