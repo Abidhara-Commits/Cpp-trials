@@ -73,3 +73,9 @@ Q21
 1 0 0
 
 Q22
+
+
+Homework
+1. Do a ceaser cypher and modernize it encrypt and decrypt
+2. solve the elevator problem. 
+Try your best to use what you used so far. (don't use refrence etc)
