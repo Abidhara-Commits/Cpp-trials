@@ -8,11 +8,15 @@ int main (){
     }
     cout << endl;
     }
-    for (int row = 1; row <= 6; row++){
-    for (int col = 1; col <= row; col++){
+
+
+    for (int r = 1; r <= 6; r++){
+    for (int c = 1; c <= r; c++){
         cout << "*";
     }
     cout<< endl;
     }
+
+    return 0;
 
 }
